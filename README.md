@@ -1,4 +1,4 @@
-# WLC_FRET
+# WLC_FRET_Simulation
 
 Authors: Adam Kenet and Mohsen Badiee  (modified from Taekjip Ha)
 
